@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Reza
+👋 Hi, I’m rez
 
 💻 Seorang developer pemula yang fokus di pembuatan aplikasi, website, dan belajar dasar-dasar cybersecurity.
 🚀 Suka bereksperimen dengan project kecil untuk mengasah skill.
